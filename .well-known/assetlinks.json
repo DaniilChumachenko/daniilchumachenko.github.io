@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "com.barva.barvapay",
       "sha256_cert_fingerprints": [
-        "DE:9F:0D:3C:94:CF:27:2C:00:EA:F3:6C:67:3C:D6:56:BD:FB:EC:91:46:D2:4F:D2:26:7E:85:F1:5F:E4:69:B7"
+        "DE:9F:0D:3C:94:CF:27:2C:00:EA:F3:6C:67:3C:D6:56:BD:FB:EC:91:46:D2:4F:D2:26:7E:85:F1:5F:E4:69:B7",
+        "FA:7A:3E:BB:DA:8E:4B:E5:CD:DF:4C:5E:8F:9C:63:DF:75:27:96:9E:8A:26:69:88:55:8C:38:91:35:BB:F6:78"
       ]
     }
   }
